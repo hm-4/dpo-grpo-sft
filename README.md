@@ -1,6 +1,6 @@
-# HM — RL Methods for NLP
+# DPO, GRPO, and SFT — RL Methods for NLP
 
-[Open the notebook](HM.ipynb) · [Open in Google Colab](https://colab.research.google.com/github/hm-4/HM/blob/main/HM.ipynb)
+[Open the notebook](HM.ipynb) · [Open in Google Colab](https://colab.research.google.com/github/hm-4/dpo-grpo-sft/blob/main/HM.ipynb)
 
 Jupyter notebook converted from `HM.py`, covering DS-207: Introduction to NLP, Assignment 3 — RL Methods for NLP. It includes supervised fine-tuning (SFT), Direct Preference Optimization (DPO), and optional Group Relative Policy Optimization (GRPO) for mathematical word problems.
 
