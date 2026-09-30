@@ -1,0 +1,20 @@
+# Local environment, notebook state, and downloads
+.venv/
+.cache/
+.jupyter/
+.ipynb_checkpoints/
+__pycache__/
+*.py[cod]
+data/
+
+# Training outputs
+sft_model/
+dpo_model/
+grpo_model/
+*_model.zip
+
+# Local editor configuration and credentials
+.vscode/
+.env
+.env.*
+!.env.example
